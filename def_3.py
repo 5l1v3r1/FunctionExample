@@ -1,5 +1,9 @@
+my_string = "Serebro"
+
 def func_1():
-  print("Hello python"
+  my_string = "Rihanna"
+  print("Hello python")
   def func_2():
+    my_string = "SerebroLove"
     print("Hello world")
   func_2()
